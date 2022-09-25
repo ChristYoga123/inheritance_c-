@@ -1,0 +1,15 @@
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\Program.csproj.AssemblyReference.cache
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\Program.AssemblyInfoInputs.cache
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\Program.AssemblyInfo.cs
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\Program.csproj.CoreCompileInputs.cache
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\bin\Debug\net6.0\Program.exe
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\bin\Debug\net6.0\Program.deps.json
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\bin\Debug\net6.0\Program.runtimeconfig.json
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\bin\Debug\net6.0\Program.dll
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\bin\Debug\net6.0\Program.pdb
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\Program.dll
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\refint\Program.dll
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\Program.pdb
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\Program.genruntimeconfig.cache
+F:\UNEJ\BELAJAR\SEMESTER 3\Pemrograman Berbasis Objek\projects\Pertemuan3\PR\Tugas Inheritance\Program\Program\obj\Debug\net6.0\ref\Program.dll
